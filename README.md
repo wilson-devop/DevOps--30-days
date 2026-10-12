@@ -11,8 +11,7 @@ I want to understand how software is built, tested, deployed, monitored, and mai
 ## About Me
 I am an IT student learning software development and working toward becoming a DevOps and Cloud Engineer.
 
-## Why I Chose DevOps and Cloud Engineering
-I want to understand how software is built, tested, deployed, monitored, and maintained. I want to develop practical skills that will help me build reliable systems and prepare for internships and future employment.
+
 
 ## Skills I Already Have
 - Python fundamentals
