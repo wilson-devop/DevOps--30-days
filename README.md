@@ -59,8 +59,6 @@ By the end of these 30 days, I aim to:
 6. Understand AWS cloud fundamentals.
 7. Document a deployment plan and practise deploying an application.
 
-## My Daily Commitment
-I will dedicate two hours each day to learning, practising, documenting my progress, and reviewing what I have learned.
 
 ## Progress Log
 
